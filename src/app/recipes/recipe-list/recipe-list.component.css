@@ -1,0 +1,7 @@
+.list-group-item {
+  background-color: var(--bs-secondary-bg);
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+}
